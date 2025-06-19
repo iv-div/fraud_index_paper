@@ -1,0 +1,178 @@
+﻿region;region_code;english_name
+98 Город Байконур (Республика Казахстан);BAYKONUR;Baikonur City (Republic of Kazakhstan)
+99 Территория за пределами РФ;ZARUB;Territory Outside the Russian Federation
+Агинский Бурятский автономный округ;ABAO;Agin-Buryat Autonomous Okrug
+Алтайский край;ALT;Altai Krai
+Амурская область;AMU;Amur Oblast
+Архангельская область;ARK;Arkhangelsk Oblast
+Астраханская область;AST;Astrakhan Oblast
+Белгородская область;BEL;Belgorod Oblast
+Брянская область;BRY;Bryansk Oblast
+Владимирская область;VLA;Vladimir Oblast
+Волгоградская область;VGG;Volgograd Oblast
+Вологодская область;VLG;Vologda Oblast
+Воронежская область;VOR;Voronezh Oblast
+город Москва;MOW;Moscow city
+Город Москва;MOW;Moscow city
+город Санкт-Петербург;SPE;Saint Petersburg
+Город Санкт-Петербург;SPE;Saint Petersburg
+город Севастополь;SEV;Sevastopol
+Еврейская автономная область;YEV;Jewish Autonomous Oblast
+Забайкальский край;ZAB;Zabaykalsky Krai
+Зарубежная территория;ZARUB;Territory Outside the Russian Federation
+Ивановская область;IVA;Ivanovo Oblast
+Иркутская область;IRK;Irkutsk Oblast
+Кабардино-Балкарская Республика;KB;Kabardino-Balkarian Republic
+Калининградская область;KGD;Kaliningrad Oblast
+Калужская область;KLU;Kaluga Oblast
+Камчатская область;KAMOBL;Kamchatka Oblast
+Камчатский край;KAM;Kamchatka Krai
+Карачаево-Черкесская Республика;KC;Karachay-Cherkess Republic
+Кемеровская область;KEM;Kemerovo Oblast
+Кировская область;KIR;Kirov Oblast
+Коми-Пермяцкий автономный округ;KPAO;Komi-Permyak Autonomous Okrug
+Корякский автономный округ;KORAO;Koryak Autonomous Okrug
+Костромская область;KOS;Kostroma Oblast
+Краснодарский край;KDA;Krasnodar Krai
+Красноярский край;KYA;Krasnoyarsk Krai
+Курганская область;KGN;Kurgan Oblast
+Курская область;KRS;Kursk Oblast
+Ленинградская область;LEN;Leningrad Oblast
+Липецкая область;LIP;Lipetsk Oblast
+Магаданская область;MAG;Magadan Oblast
+Московская область;MOS;Moscow Oblast
+Мурманская область;MUR;Murmansk Oblast
+Ненецкий автономный округ;NEN;Nenets Autonomous Okrug
+Нижегородская область;NIZ;Nizhny Novgorod Oblast
+Новгородская область;NGR;Novgorod Oblast
+Новосибирская область;NVS;Novosibirsk Oblast
+Омская область;OMS;Omsk Oblast
+Оренбургская область;ORE;Orenburg Oblast
+Орловская область;ORL;Oryol Oblast
+Пензенская область;PNZ;Penza Oblast
+Пермская область;PERMOBL;Perm Oblast
+Пермский край;PER;Perm Krai
+Приморский край;PRI;Primorsky Krai
+Псковская область;PSK;Pskov Oblast
+Республика Адыгея (Адыгея);AD;Republic of Adygea (Adygea)
+Республика Алтай;AL;Altai Republic
+Республика Башкортостан;BA;Republic of Bashkortostan
+Республика Бурятия;BU;Republic of Buryatia
+Республика Дагестан;DA;Republic of Dagestan
+Республика Ингушетия;IN;Republic of Ingushetia
+Республика Калмыкия;KL;Republic of Kalmykia
+Республика Карелия;KR;Republic of Karelia
+Республика Коми;KO;Republic of Komi
+Республика Крым;CRY;Republic of Crimea
+Республика Марий Эл;ME;Republic of Mari El
+Республика Мордовия;MO;Republic of Mordovia
+Республика Саха (Якутия);SA;Republic of Sakha (Yakutia)
+Республика Северная Осетия - Алания;SE;Republic of North Ossetia – Alania
+Республика Татарстан (Татарстан);TA;Republic of Tatarstan (Tatarstan)
+Республика Тыва;TY;Republic of Tuva
+Республика Хакасия;KK;Republic of Khakassia
+Ростовская область;ROS;Rostov Oblast
+Рязанская область;RYA;Ryazan Oblast
+Самарская область;SAM;Samara Oblast
+Саратовская область;SAR;Saratov Oblast
+Сахалинская область;SAK;Sakhalin Oblast
+Свердловская область;SVE;Sverdlovsk Oblast
+Смоленская область;SMO;Smolensk Oblast
+Ставропольский край;STA;Stavropol Krai
+Таймырский (Долгано-Ненецкий) автономный округ;TDNAO;Taymyr (Dolgan-Nenets) Autonomous Okrug
+Тамбовская область;TAM;Tambov Oblast
+Тверская область;TVE;Tver Oblast
+Томская область;TOM;Tomsk Oblast
+Тульская область;TUL;Tula Oblast
+Тюменская область;TYU;Tyumen Oblast
+Удмуртская Республика;UD;Udmurt Republic
+Ульяновская область;ULY;Ulyanovsk Oblast
+Усть-Ордынский Бурятский автономный округ;UOBAO;Ust-Orda Buryat Autonomous Okrug
+Хабаровский край;KHA;Khabarovsk Krai
+Ханты-Мансийский автономный округ;KHM;Khanty-Mansi Autonomous Okrug – Yugra
+Ханты-Мансийский автономный округ - Югра;KHM;Khanty-Mansi Autonomous Okrug – Yugra
+Челябинская область;CHE;Chelyabinsk Oblast
+Чеченская Республика;CE;Chechen Republic
+Читинская область;CHITOBL;Chita Oblast
+Чувашская Республика - Чаваш республики;CU;Chuvash Republic
+Чувашская Республика - Чувашия;CU;Chuvash Republic
+Чукотский автономный округ;CHU;Chukotka Autonomous Okrug
+Эвенкийский автономный округ;EVENKAO;Evenk Autonomous Okrug
+Ямало-Ненецкий автономный округ;YAN;Yamalo-Nenets Autonomous Okrug
+Ярославская область;YAR;Yaroslavl Oblast
+Адыгея;AD;Republic of Adygea (Adygea)
+Башкортостан;BA;Republic of Bashkortostan
+Бурятия;BU;Republic of Buryatia
+Алтай;AL;Altai Republic
+Дагестан;DA;Republic of Dagestan
+Ингушетия;IN;Republic of Ingushetia
+Кабардино-Балкария;KB;Kabardino-Balkarian Republic
+Калмыкия;KL;Republic of Kalmykia
+Карачаево-Черкесия;KC;Karachay-Cherkess Republic
+Карелия;KR;Republic of Karelia
+Коми;KO;Republic of Komi
+Марий Эл;ME;Republic of Mari El
+Мордовия;MO;Republic of Mordovia
+Саха (Якутия);SA;Republic of Sakha (Yakutia)
+Северная Осетия;SE;Republic of North Ossetia – Alania
+Татарстан;TA;Republic of Tatarstan (Tatarstan)
+Тыва;TY;Republic of Tuva
+Удмуртия;UD;Udmurt Republic
+Хакасия;KK;Republic of Khakassia
+Чечня;CE;Chechen Republic
+Чувашия;CU;Chuvash Republic
+Амурская обл.;AMU;Amur Oblast
+Архангельская обл.;ARK;Arkhangelsk Oblast
+Астраханская обл.;AST;Astrakhan Oblast
+Белгородская обл.;BEL;Belgorod Oblast
+Брянская обл.;BRY;Bryansk Oblast
+Владимирская обл.;VLA;Vladimir Oblast
+Волгоградская обл.;VGG;Volgograd Oblast
+Вологодская обл.;VLG;Vologda Oblast
+Воронежская обл.;VOR;Voronezh Oblast
+Ивановская обл.;IVA;Ivanovo Oblast
+Иркутская обл.;IRK;Irkutsk Oblast
+Калининградская обл.;KGD;Kaliningrad Oblast
+Калужская обл.;KLU;Kaluga Oblast
+Кемеровская обл.;KEM;Kemerovo Oblast
+Кировская обл.;KIR;Kirov Oblast
+Костромская обл.;KOS;Kostroma Oblast
+Курганская обл.;KGN;Kurgan Oblast
+Курская обл.;KRS;Kursk Oblast
+Ленинградская обл.;LEN;Leningrad Oblast
+Липецкая обл.;LIP;Lipetsk Oblast
+Магаданская обл.;MAG;Magadan Oblast
+Московская обл.;MOS;Moscow Oblast
+Мурманская обл.;MUR;Murmansk Oblast
+Нижегородская обл.;NIZ;Nizhny Novgorod Oblast
+Новгородская обл.;NGR;Novgorod Oblast
+Новосибирская обл.;NVS;Novosibirsk Oblast
+Омская обл.;OMS;Omsk Oblast
+Оренбургская обл.;ORE;Orenburg Oblast
+Орловская обл.;ORL;Oryol Oblast
+Пензенская обл.;PNZ;Penza Oblast
+Псковская обл.;PSK;Pskov Oblast
+Ростовская обл.;ROS;Rostov Oblast
+Рязанская обл.;RYA;Ryazan Oblast
+Самарская обл.;SAM;Samara Oblast
+Саратовская обл.;SAR;Saratov Oblast
+Сахалинская обл.;SAK;Sakhalin Oblast
+Свердловская обл.;SVE;Sverdlovsk Oblast
+Смоленская обл.;SMO;Smolensk Oblast
+Тамбовская обл.;TAM;Tambov Oblast
+Тверская обл.;TVE;Tver Oblast
+Томская обл.;TOM;Tomsk Oblast
+Тульская обл.;TUL;Tula Oblast
+Тюменская обл.;TYU;Tyumen Oblast
+Ульяновская обл.;ULY;Ulyanovsk Oblast
+Челябинская обл.;CHE;Chelyabinsk Oblast
+Ярославская обл.;YAR;Yaroslavl Oblast
+Москва;MOW;Moscow city
+Санкт-Петербург;SPE;Saint Petersburg
+Еврейская АО;YEV;Jewish Autonomous Oblast
+Ненецкий АО;NEN;Nenets Autonomous Okrug
+ХМАО – Югра;KHM;Khanty-Mansi Autonomous Okrug – Yugra
+Чукотский АО;CHU;Chukotka Autonomous Okrug
+Ямало-Ненецкий АО;YAN;Yamalo-Nenets Autonomous Okrug
+Крым;CRY;Republic of Crimea
+Севастополь;SEV;Sevastopol
